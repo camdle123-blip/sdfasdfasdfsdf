@@ -1,0 +1,7 @@
+Markdown
+# ป้อมหมูกะทะ
+
+
+## Terms of Use
+- Code & Content: All Rights Reserved
+- Commercial Integration: Contact owner for API access
